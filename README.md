@@ -1,6 +1,6 @@
 <span style="color:#c792ea; font-weight:bold; font-size:1.7em;">Hi there! 👋</span>
  
-<kbd> <img width="750" src="/img/c1z.gif"> </kbd>
+<kbd> <img width="750" src="/img/8qG.gif"> </kbd>
 
 <br>
 
