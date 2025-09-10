@@ -1,0 +1,30 @@
+name: Generate Datas
+
+on:
+  schedule:
+    # Correção: Executa no minuto 0, a cada 12 horas (meia-noite e meio-dia UTC)
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Adicionado: Passo 1 - Baixa o código do repositório para o ambiente
+      - uses: actions/checkout@v4
+
+      # Passo 2 - Gera a animação da cobrinha
+      - uses: Platane/snk@v3 # Melhoria: Usa a versão estável v3 em vez de @master
+        id: snake-gif
+        with:
+          github_user_name: rafaballerini
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Passo 3 - Publica o diretório 'dist' na branch 'output'
+      - uses: crazy-max/ghaction-github-pages@v4 # Melhoria: Usa a versão estável v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
