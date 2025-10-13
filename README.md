@@ -1,6 +1,6 @@
 # Hi there! 👋
  
-<kbd> <img width="750" src="/img/download.gif"> </kbd>
+<kbd> <img width="710" src="/img/download.gif"> </kbd>
 
 <br>
 
