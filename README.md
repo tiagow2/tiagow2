@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou **Tiago dos Santos Freitas**, técnico em Desenvolvimento de Sistemas e estudante de **Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos**.
 
@@ -20,7 +20,7 @@ Atualmente venho evoluindo em projetos com **React, TypeScript, Node.js, Java/Sp
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -66,7 +66,7 @@ Atualmente venho evoluindo em projetos com **React, TypeScript, Node.js, Java/Sp
 
 ---
 
-## 🧠 Stack e tecnologias
+## Stack e tecnologias
 
 ### Front-end e Mobile
 
@@ -124,7 +124,7 @@ Atualmente venho evoluindo em projetos com **React, TypeScript, Node.js, Java/Sp
 
 ---
 
-## 📌 Atualmente estudando e praticando
+## Atualmente estudando e praticando
 
 - Arquitetura de APIs REST com Node.js, TypeScript e Java/Spring Boot.
 - Modelagem de dados com PostgreSQL, MongoDB, TypeORM e SQL avançado.
@@ -134,7 +134,7 @@ Atualmente venho evoluindo em projetos com **React, TypeScript, Node.js, Java/Sp
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tiagow2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -149,7 +149,7 @@ Atualmente venho evoluindo em projetos com **React, TypeScript, Node.js, Java/Sp
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiagow2/tiagow2/output/github-contribution-grid-snake-dark.svg">
@@ -159,7 +159,7 @@ Atualmente venho evoluindo em projetos com **React, TypeScript, Node.js, Java/Sp
 
 ---
 
-## 🤝 Contato
+## Contato
 
 <div align="center">
   <a href="mailto:tsfreitasw@gmail.com">
