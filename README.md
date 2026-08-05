@@ -2,7 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=27272a&text=Tiago%20Freitas&fontColor=e4e4e7&fontSize=34&fontAlignY=40&desc=Desenvolvedor%20de%20Software%20em%20Forma%C3%A7%C3%A3o%20%7C%20Full%20Stack&descSize=15&descAlignY=62" />
 </div>
 
-### Tiago Freitas
+<div align="center">  <a href="https://github.com/tiagow2">    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;React+%7C+TypeScript+%7C+Node.js+%7C+SQL;FATEC+S%C3%A3o+Jos%C3%A9+dos+Campos+%7C+DSM;Criando+solu%C3%A7%C3%B5es+com+dados%2C+APIs+e+boas+interfaces" alt="Typing SVG" />  </a></div>
+
 
 Técnico em Desenvolvimento de Sistemas, cursando Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos. Trabalho com Full Stack — APIs, interfaces web, apps mobile e banco de dados — e sou cofundador da Motus Sports, uma sporttech.
 
